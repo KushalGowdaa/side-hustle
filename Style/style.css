@@ -1,6 +1,7 @@
 body {
     margin: auto;
     background-color:rgb(99, 197, 236);
+    padding:30px 30px 30px 30px;
 }
 
 form {
@@ -8,7 +9,7 @@ form {
     font-weight: 700;
     border-radius: 5px;
     align-items: center;
-    max-width:fit-content;
+    width:fit-content;
     padding:20px 20px 20px 20px;
     margin:auto;
     margin-top: 200px;
